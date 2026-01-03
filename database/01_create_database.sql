@@ -1,0 +1,4 @@
+--ALTER DATABASE Airport_Ticketing_SystemDB
+--SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+--DROP DATABASE Airport_Ticketing_SystemDB;
+CREATE DATABASE Airport_Ticketing_SystemDB1
